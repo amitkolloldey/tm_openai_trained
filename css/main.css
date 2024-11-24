@@ -1,0 +1,154 @@
+.tm_openai_header_content {
+  margin: 30px 0;
+}
+
+td.TM-table__td-thumb img {
+  width: 100px;
+}
+
+table.TM-table th,
+table.TM-table td {
+  padding: 10px;
+}
+
+.TM-button {
+  border-color: #9c7e31 #90742d #786025 !important;
+  border-radius: 3px;
+  box-shadow: inset 0 1px 0 hsl(0deg 0% 100% / 40%);
+  background: #f0c14b;
+  background: linear-gradient(180deg, #f7dfa5, #f0c14b) repeat scroll 0 0 transparent;
+  color: #111 !important;
+  font-size: 14px;
+  font-weight: 400;
+  position: relative;
+  padding: 10px;
+  padding-left: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.TM-button::before {
+  position: absolute;
+  content: "";
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-repeat: no-repeat;
+  background-size: 20px 20px;
+  background-position: 12px;
+  background-image: url(../../../plugins/tm_openai_trained/css/icon-cart-black.svg);
+  width: 45px;
+  background-color: rgba(0, 0, 0, .1);
+  text-align: center;
+}
+
+.tm_openai_product_table {
+  margin: 30px 0;
+}
+
+.tm_openai_beforeList {
+  margin: 30px 0;
+}
+
+.tm_openai_product {
+  margin: 40px 0;
+}
+
+.tm_openai_productimage {
+  text-align: center;
+  padding: 20px;
+  display: block;
+  margin: 30px 0;
+}
+
+.tm_openai_productimage a.amazonbuybutton {
+  display: inline-block;
+}
+
+.tm_openai_productfeatures p strong,
+.tm_openai_additional p strong,
+.tm_openai_product_description p strong,
+.tm_openai_product_ratings p strong {
+  font-size: 20px;
+}
+
+table.tm_openai_technicaltable {
+  width: 100%;
+}
+
+table.tm_openai_technicaltable td,
+table.tm_openai_technicaltable th {
+  padding: 10px;
+  border: 1px solid #eee;
+}
+
+table.tm_openai_technicaltable {
+  margin: 30px 0;
+}
+
+a.TM-button {
+  margin: 30px 0;
+  display: inline-block;
+}
+
+.tm_openai_product {
+  border-bottom: 2px solid #ddd;
+}
+
+.tm_openai_afterList {
+  margin: 30px 0;
+}
+
+.tm_openai_buy_guide {
+  margin: 30px 0;
+}
+
+.tm_openai_center {
+  text-align: center !important;
+}
+
+.tm_openai_productimage {
+  text-align: center !important;
+}
+
+.tm_openai_amazon_content h2 {
+  text-transform: capitalize;
+}
+
+.featured-image {
+  text-align: center;
+}
+
+.tm_openai_faqs {
+  padding: 20px;
+  background: #eee;
+  margin: 20px 0;
+}
+
+h2.tm_faq {
+  margin: 10px 0;
+  font-size: 30px;
+}
+
+.tm_openai_faqs ul {
+  list-style: none;
+}
+
+.tm_openai_faqs li h3 {
+  margin: 10px 0;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.tm_openai_amazon_content h2 {
+  font-size: 40px;
+}
+
+.tm_openai_amazon_content h3 {
+  font-size: 32px;
+}
+
+figure, .post-image {
+  text-align: center;
+}

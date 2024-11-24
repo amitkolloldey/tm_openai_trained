@@ -1,0 +1,13 @@
+{
+    "name": "amit/TM",
+    "type": "librery",
+    "autoload": {
+        "psr-4": {
+            "Amit\\TM\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "drunomics/paapi5-php-sdk": "dev-master"
+    }
+}
